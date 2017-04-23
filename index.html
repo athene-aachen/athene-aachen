@@ -1,18 +1,25 @@
 ---
 layout: default
 ---
+<div class="nav-icon">
+  <a href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" /></a>
+  <p>Ich bin Schüler</p>
+</div>
+
+<div class="nav-icon">
+  <br>
+  <a href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" /></a>
+  <br>
+  Ich bin Katze
+</div>
+
 
 <div class="posts">
+  <ul>
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
-    </article>
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
+  </ul>
 </div>
