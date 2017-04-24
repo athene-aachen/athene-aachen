@@ -77,15 +77,8 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-<<<<<<< HEAD
-    - Gemfile
-    - Gemfile.lock
-    - scss
-    - README.md
-=======
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
->>>>>>> 7304309... Slight tweak to spacing between masthead and content

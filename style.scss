@@ -184,20 +184,17 @@ img {
   }
 }
 
-// Top banner
-// site-nav
-// site-info
-// * site-name
-// * site-description
-.site-banner {
-  padding-top: 2em;	
-}
+// * site-nav
+// * site-info
+//   * site-name
+//   * site-description
+//   * site-avatar
 
 .site-avatar {
   float: right;
   width: 80px;
   height: 80px;
-  margin-right: 15px;
+  margin-left: 15px;
 
   @include mobile {
     float: none;
@@ -242,6 +239,7 @@ img {
 }
 
 nav {
+  clear: both;
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
