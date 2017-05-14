@@ -4,19 +4,13 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  
   <div class="date">
-    {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober" | replace:"December","Dezember" }}
     <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
       {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober" | replace:"December","Dezember" }}
     </time>
   </div>
-
   <div class="entry">
     {{ content }}
   </div>
-
-
-
   {% include disqus.html %}
 </article>
