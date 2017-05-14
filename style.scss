@@ -11,22 +11,61 @@
 /* Custom stuff */
 /****************/
 
-// Nav links on start page
-.nav-icon {
-  width: 120px;
-  height: 120px;
-  //margin-right: 15px;
+// nav tiles on start page
+.nav-tile {
+  transform: scale(1); // stacking context
+  position: relative;
+  float: left;
+  width: 30%;
+  max-width: 15em;
+  margin: 0.5em;
+}
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+.nav-tile-thumbnail {
+  // aspect ratio box
+  position: relative;
+  height: 0;
+  padding-bottom: 60%;
+  width: 80%;
+  margin: auto;
 
   img {
-    border-radius: 5px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
   }
 }
+
+.nav-tile-title {
+  display: block;
+  margin: 0.25em;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+word-wrap: break-word;
+
+  &:before {
+    // full-tile clickable area
+    content: '';
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+  }
+}
+
+.border-box {
+  width: 90%;
+  margin: auto;
+  border: 2px solid green;
+//  padding: 25px;
+//  margin: 25px;
+}
+
 
 /**************/
 /* BASE RULES */

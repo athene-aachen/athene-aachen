@@ -1,22 +1,29 @@
 ---
 layout: default
 ---
-<div class="nav-icon">
-  <a href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" /></a>
-  <p>Ich bin Schüler</p>
+<div class="nav-tile">
+  <div class="nav-tile-thumbnail">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/owl-icon.png" /></a>
+  </div>
+      <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Schüler</a>
+</div>
+<div class="nav-tile">
+  <div class="nav-tile-thumbnail">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/owl-icon.png" /></a>
+  </div>
+    <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Lehrer</a>
+</div>
+<div class="nav-tile">
+  <div class="nav-tile-thumbnail">
+    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/owl-icon.png" /></a>
+  </div>
+    <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Student und möchte helfen</a>
 </div>
 
-<div class="nav-icon">
-  <br>
-  <a href="{{ site.baseurl }}/"><img src="{{ site.avatar }}" /></a>
-  <br>
-  Ich bin Katze
-</div>
-
-
-<div class="posts">
+<div class="clearfix"></div>
+<div class="posts border-box">
   <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
