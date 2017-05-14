@@ -9,9 +9,7 @@ avatar: https://raw.githubusercontent.com/mgla/athene-aachen/master/images/owl.p
 # pages per site
 paginate: 8
 
-#
-# Flags below are optional
-#
+## Flags below are optional
 
 # Includes an icon in the footer for each username you enter
 footer-links:
