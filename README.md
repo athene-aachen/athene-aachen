@@ -1,3 +1,3 @@
 # athene-aachen
 
-Jekhyll static site for future athene-aachen.de
+Jekyll static site for future athene-aachen.de
