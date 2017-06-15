@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Projekt Athene startet in\'s Jahr 2017'
+title: 'Projekt Athene startet in''s Jahr 2017'
 ---
 
 Nach einer kleineren Pause ist das Projekt Athene mit einem motivierten Team und einer neuen Internetpräsenz in's Jahr 2017 gestartet. 
