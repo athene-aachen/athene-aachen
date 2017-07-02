@@ -12,3 +12,6 @@ Athene ist Teil des <a href="http://www.aachen.de/DE/stadt_buerger/gesellschaft_
 
 ## Zertifikat Integration  der RWTH Aachen
 Ein Engagement bei Athene kannst Du Dir Als Teil des <a href="http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/"> Zertifikat Integration </a> anrechnen lassen. 
+
+## Außerschulisches Praktikum im Lehramtsstudium (Bachelor, RWTH)
+Ob als Teil des Nachhilfeteams an unseren Partnerschulen, durch die Mitarbeit in Projekten oder der Organisation, ein Engegement im Rahmen von Athene kannst Du Dir als außerschulisches Praktikum im Lehramtsstudium anrechnen lassen. Wir fruen uns auf Dich!
