@@ -7,13 +7,10 @@ Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildu
 
 
 <div class="clearfix"></div>
-<ul>
-{% for post in site.posts limit:3 %}
-  <li>
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>
-  </li>
+{% for post in site.posts limit:2 %}
+  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  <div class="entry">
+    {{ post.excerpt }}
+  </div>
 {% endfor %}
-</ul>
+
