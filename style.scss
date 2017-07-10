@@ -225,7 +225,7 @@ img {
 
 .site-avatar {
   float: none;
-  display: block;
+  display: inline-block;
   width: 520px;
   height: 153px;
   //margin-left: 15px;
@@ -233,7 +233,7 @@ img {
 
   @include mobile {
     float: none;
-    display: block;
+    display: inline-block;
     width: 260;
     height: 76px;
     margin: 0 auto;
