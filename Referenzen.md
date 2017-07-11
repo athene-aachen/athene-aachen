@@ -10,7 +10,7 @@ Seit mehreren Jahren unterstützen wir nun schon die <a href="http://kgs-feldstr
 ## Mentoren-Netzwerk Aachen 
 Athene ist Teil des <a href="http://www.aachen.de/DE/stadt_buerger/gesellschaft_soziales/ehrenamt/mentorenprojekte/Flyer_NEU_Mai_2017_Druckversion.pdf">Mentoren-Netzwerk Aachen</a> der Stadt Aachen. Das Netzwerk umfasst die meisten Aachener Bildungsprojekte, von "Arbeiterkind.de – Aachen" über "ROCK YOUR LIFE! Aachen e.V." bis zum "UNESCO-Club Aachen e. V.". Die Plattform versucht, die Mentorenprojekten durch Informationsdienste und Fortbildungsprogramme zu unterstützen. 
 
-## Zertifikat Integration der RWTH Aachen
+## Zertifikat Internationales der RWTH Aachen
 Ein Engagement bei Athene kannst Du Dir Als Teil des <a href="http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/">Zertifikat Internationales</a> anrechnen lassen. 
 
 ## Außerschulisches Praktikum im Lehramtsstudium (Bachelor, RWTH)
