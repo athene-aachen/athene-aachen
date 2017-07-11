@@ -227,15 +227,15 @@ img {
   float: none;
   display: inline-block;
   width: 520px;
-  height: 153px;
-  //margin-left: 15px;
   margin-right: 15px;
+	
+  max-width: 100%;
+  min-width: 300px;
+  height: auto;
 
   @include mobile {
     float: none;
     display: inline-block;
-    width: 260;
-    height: 76px;
     margin: 0 auto;
   }
 
