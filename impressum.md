@@ -9,7 +9,7 @@ c/o SPD Aachen
 Heinrichsalle 53  
 52062 Aachen  
 
-E-Mail: info@athene-aachen.de  
+E-Mail: <a href="mailto:info@athene-aachen.de">info@athene-aachen.de</a>  
 Telefon: 0241/536677  
 Fax: 0241/9039200  
 

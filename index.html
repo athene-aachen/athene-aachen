@@ -2,4 +2,14 @@
 layout: default
 ---
 
-Athene ist ein Bildungsprojekt von Studierenden für Schüler/innen. Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildungssystem zu finden - ganz unabhängig vom individuellen Hintergrund.
+Athene ist ein Bildungsprojekt von Studierenden für Schüler/innen.
+Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildungssystem zu finden - ganz unabhängig vom individuellen Hintergrund.
+
+{% for post in site.posts limit:1 %}
+<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="entry">
+  {{ post.excerpt }}
+</div>
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+{% endfor %}
+
