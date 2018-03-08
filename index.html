@@ -2,35 +2,14 @@
 layout: default
 ---
 
-Athene ist ein Bildungsprojekt von Student/innen für Schüler/innen. Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildungssystem zu finden - ganz unabhängig vom individuellen Hintergrund.
+Athene ist ein Bildungsprojekt von Studierenden für Schüler/innen.
+Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildungssystem zu finden - ganz unabhängig vom individuellen Hintergrund.
 
-<div class="clearfix"></div>
-<div class="nav-tile">
-  <div class="nav-tile-thumbnail">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/athene_logo_eule_banner_schwarz-weiss.jpg" /></a>
-  </div>
-      <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Schüler</a>
+{% for post in site.posts limit:1 %}
+<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="entry">
+  {{ post.excerpt }}
 </div>
-<div class="nav-tile">
-  <div class="nav-tile-thumbnail">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/athene_logo_eule_banner_schwarz-weiss.jpg" /></a>
-  </div>
-    <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Lehrer</a>
-</div>
-<div class="nav-tile">
-  <div class="nav-tile-thumbnail">
-    <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/athene_logo_eule_banner_schwarz-weiss.jpg" /></a>
-  </div>
-    <a class="nav-tile-title" href="{{ site.baseurl }}/">Ich bin Student und möchte helfen</a>
-</div>
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+{% endfor %}
 
-<div class="clearfix"></div>
-<div class="posts border-box">
-  <ul>
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>

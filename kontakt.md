@@ -5,5 +5,4 @@ permalink: /Kontakt/
 ---
 
 Falls Du Fragen, Anregungen oder Kritik jeglicher Art zum Projekt oder zur konkreten Mitarbeit hast, schreib uns eine E-Mail
-an <mailto:info@athene-aachen.de> oder benutze folgendes Kontaktformular. Wir werden uns bemühen, alle
-Anfragen und Nachrichten sobald wie möglich zu beantworten.
+an <a href="mailto:info@athene-aachen.de">info@athene-aachen.de</a> oder eine Nachricht bei <a href="https://www.facebook.com/Athene-Bildungschancen-f%C3%BCr-Aachen-113965805351072/">Facebook</a>. Wir geben uns Mühe, alle Anfragen und Nachrichten schnell zu beantworten.
