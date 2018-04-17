@@ -14,7 +14,7 @@ paginate: 8
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@athene-aachen.de
+  email:
   facebook: Athene-Bildungschancen-f%C3%BCr-Aachen-113965805351072
   flickr:
   github: athene-aachen/athene-aachen
