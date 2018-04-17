@@ -3,9 +3,14 @@ layout: page
 title: Wissen
 permalink: /Wissen/
 ---
+<div class="toc-box">
 * TOC
 {:toc}
+</div>
 ## Praxis ##
+<div class="toc-box">
+  toc-test
+</div>
 
 Menschen, besonders Kinder haben weltweit einen sehr unterschiedlichen Zugang zu Bildung. Bildung schafft Möglichkeiten, öffnet Wege, kann befreien! Über Bildung wird viel und kontrovers diskutiert. 
 
