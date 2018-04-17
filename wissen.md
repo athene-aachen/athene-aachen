@@ -3,6 +3,8 @@ layout: page
 title: Wissen
 permalink: /Wissen/
 ---
+* TOC
+{:toc}
 ## Wissens- und Informationsplattform zum Thema Bildung, in Kürze hier… ##
 
 Menschen, besonders Kinder haben weltweit einen sehr unterschiedlichen Zugang zu Bildung. Bildung schafft Möglichkeiten, öffnet Wege, kann befreien! Über Bildung wird viel und kontrovers diskutiert. 
