@@ -5,11 +5,7 @@ permalink: /Wissen/
 ---
 <aside markdown="1">
 
-* ToC
-{:toc}
-
 <div class="toc-box">
-toc-test
   
 * ToC
 {:toc}
@@ -19,7 +15,6 @@ toc-test
 
 
 <aside markdown="1">
-<h4>Table of Contents</h4>
 * ToC
 {:toc}
 </aside>
