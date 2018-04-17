@@ -4,7 +4,6 @@ title: Wissen
 permalink: /Wissen/
 ---
 <aside markdown="1">
-
 <div class="toc-box">
   
 * ToC
@@ -13,10 +12,13 @@ permalink: /Wissen/
 </div>
 </aside>
 
-
 <aside markdown="1">
+<div>
+
 * ToC
 {:toc}
+
+</div>
 </aside>
 
 ## Praxis ##
