@@ -4,7 +4,6 @@ title: Wissen
 permalink: /Wissen/
 ---
 <aside markdown="1">
-<h2>Table of Contents</h4>
 
 * ToC
 {:toc}
