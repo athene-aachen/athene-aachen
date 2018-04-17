@@ -17,6 +17,13 @@ toc-test
 </div>
 </aside>
 
+
+<aside markdown="1">
+<h4>Table of Contents</h4>
+* ToC
+{:toc}
+</aside>
+
 ## Praxis ##
 
 Menschen, besonders Kinder haben weltweit einen sehr unterschiedlichen Zugang zu Bildung. Bildung schafft Möglichkeiten, öffnet Wege, kann befreien! Über Bildung wird viel und kontrovers diskutiert. 
