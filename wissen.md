@@ -5,19 +5,15 @@ permalink: /Wissen/
 ---
 <aside markdown="1">
 <div class="toc-box">
-  
 * ToC
 {:toc}
-
 </div>
 </aside>
 
 <aside markdown="1">
 <div>
-
 * ToC
 {:toc}
-
 </div>
 </aside>
 
