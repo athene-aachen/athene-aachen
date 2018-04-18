@@ -3,12 +3,10 @@ layout: page
 title: Wissen
 permalink: /Wissen/
 ---
-<aside markdown="1">
-<div class="toc-box">
+<div markdown="1" class="toc-box">
 * ToC1
 {:toc}
 </div>
-</aside>
 
 ## Praxis ##
 
