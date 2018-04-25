@@ -23,7 +23,7 @@ Ihre personenbezogenen Daten werden an Dritte nur weitergegeben oder sonst über
 ## 3. Auskunftsrecht
 Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der Speicherung. Auskunft über die gespeicherten Daten gibt der Webmaster unter <mailto:webmaster@athene-aachen.de>.
 
-### 4. Einbindung von Diensten und Inhalten Dritter
+## 4. Einbindung von Diensten und Inhalten Dritter
 Auf dieser Website können Inhalte Dritter - etwa Videomaterial, Kartenmaterial oder Grafiken - eingebunden werden.
 
 Dies setzt immer voraus, dass die Anbieter dieser Inhalte (nachfolgend als "Dritt-Anbieter" bezeichnet) die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse, könnten diese die Inhalte nicht an den Browser des jeweiligen Nutzers senden.
@@ -33,10 +33,10 @@ Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die I
 
 Soweit uns dieses bekannt ist, klären wir die Nutzer darüber auf.
 
-## Daten-Erhebung durch die Nutzung von GitHub Pages
+## 5. Daten-Erhebung durch die Nutzung von GitHub Pages
 Diese Website wird auf Servern von <a href="https://www.github.com">Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA</a> gehostet. Beachten Sie daher auch die <a href="https://help.github.com/articles/github-privacy-policy/">GitHub Privacy Policy</a>.
 
-### 5 Google Analytics
+## 6 Google Analytics
 
 <p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc, (1600 Amphitheatre Parkway Mountain View, CA 94043, USA; &bdquo;Google&ldquo;). Die Nutzung umfasst die Betriebsart &bdquo;Universal Analytics&ldquo;. Hierdurch ist es möglich, Daten, Sitzungen und Interaktionen über mehrere Geräte hinweg einer pseudonymen User-ID zuzuordnen und so die Aktivitäten eines Nutzers geräteübergreifend zu analysieren.
 
