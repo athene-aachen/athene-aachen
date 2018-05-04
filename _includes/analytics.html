@@ -19,7 +19,7 @@
 		ga('create', '{{ site.google_analytics }}', 'auto');
 		ga('set', 'anonymizeIp', true);
 		ga('send', 'pageview', {
-		  'page': '{{ site.baseurl }}{{ page.url }}',
+		  'page': '{{ page.url }}',
 		  'title': '{{ page.title | replace: "'", "\\'" }}'
 		});
 	</script>
