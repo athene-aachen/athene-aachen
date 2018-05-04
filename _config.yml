@@ -39,11 +39,9 @@ google_analytics: UA-118133850-1
 # Used for Sitemap.xml and your RSS feed
 url: "https://athene-aachen.github.io"
 
-baseurl: /athene-aachen
+baseurl:
 
-#
 # !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 
