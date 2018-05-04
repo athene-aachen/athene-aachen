@@ -4,7 +4,7 @@ name: Athene
 description: Bildungschancen für Aachen
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/athene-aachen/athene-aachen/master/images/Header_Athene.png
+avatar: https://images.athene-aachen.de/Header_Athene.png
 
 # pages per site
 paginate: 8
