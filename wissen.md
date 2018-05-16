@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Bildungssystem  in  Deutschland:  Die  Guten  ins  Töpfchen,  die  Schlechten  ins  Kröpfchen?'
-permalink: /Wissen/Bildungssystem/
+permalink: /Wissen/
 author: Renan
 ---
 In Deutschland erlangen Kinder aus bildungs- und einkommensstarken Elternhäusern
