@@ -12,7 +12,7 @@ Wir wollen Kinder und Jugendliche dabei unterstützen, ihren Weg durch das Bildu
 <div class="entry">
   <div class="date">
     <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
-      {{ page.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober" | replace:"December","Dezember" }}
+      {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober" | replace:"December","Dezember" }}
     </time>
   </div>  {{ post.excerpt }}
 </div>
