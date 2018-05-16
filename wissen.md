@@ -23,7 +23,7 @@ die Realschule und das Gymnasium.
 Anfang der 1970er Jahre wurde das dreigliedrige Schulsystem in Deutschland
 durch Gesamtschulen erweitert.
 
-![Übersicht des Deutschen Bildungssystems](/images/2018-05-Deutsches-Bildungssystem.png)
+![Übersicht des Deutschen Bildungssystems](https://images.athene-aachen.de/2018-05-Deutsches-Bildungssystem.png)
 
 Die Hauptschule stellt den Schulzweig mit den niedrigsten akademischen
 Anforderungen dar.
