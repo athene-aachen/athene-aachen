@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bildungssystem  in  Deutschland:  Die  Guten  ins  Töpfchen,  die  Schlechten  ins  Kröpfchen?
+title: 'Bildungssystem  in  Deutschland:  Die  Guten  ins  Töpfchen,  die  Schlechten  ins  Kröpfchen?'
 permalink: /Wissen/Bildungssystem/
 author: Renan
 ---
