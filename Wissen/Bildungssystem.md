@@ -85,4 +85,4 @@ to Social Inequality in Educational Outcomes. In: Child Development Perspectives
 
 Malecki, A. (2016): Schulen auf einen Blick. Wiesbaden, Statistisches Bundesamt. Zugriff
 am 08.01.2017:
-https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Schulen/BroschuereSchulenBlick0110018169004.pdf?__blob=publicationFile.
+<https://www.destatis.de/DE/Publikationen/Thematisch/BildungForschungKultur/Schulen/BroschuereSchulenBlick0110018169004.pdf?__blob=publicationFile./>
