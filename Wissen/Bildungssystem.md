@@ -22,6 +22,8 @@ die Realschule und das Gymnasium.
 Anfang der 1970er Jahre wurde das dreigliedrige Schulsystem in Deutschland
 durch Gesamtschulen erweitert.
 
+![Übersicht des Deutschen Bildungssystems](/images/2018-05-Deutsches-Bildungssystem.png)
+
 Die Hauptschule stellt den Schulzweig mit den niedrigsten akademischen
 Anforderungen dar.
 SchülerInnen der Hauptschule nehmen danach
@@ -42,8 +44,7 @@ liegt bei 34 %. An Realschulen liegt der Anteil bei 23 % und an Hauptschulen
 bei 12 %. Neben der Haupt- und Realschule und dem Gymnasium wurde zudem
 ein alternativer Schultyp eingeführt: Die Integrierte Gesamtschule. Der Anteil der
 Schülerschaft an Integrierten Gesamtschulen liegt bei 16 %. Dabei kam es zu Zusammenlegungen
-von Haupt- und Realschulen zu Integrierten Gesamtschulen. 11
-% der SchülerInnen besuchen Schularten mit mehreren Bildungsgängen.
+von Haupt- und Realschulen zu Integrierten Gesamtschulen. 11 % der SchülerInnen besuchen Schularten mit mehreren Bildungsgängen.
 
 **Quellen:**
 
