@@ -16,12 +16,13 @@ Und falls du Lehrämtler/in bist, lohnt sich für die Mitarbeit bei Athene noch 
 Schreib uns einfach eine kurze E-Mail an <a href="mailto:info@athene-aachen.de">info@athene-aachen.de</a> oder schick uns eine <a href="m.me/AtheneAachen">Nachricht auf Facebook</a>. Und falls du uns persönlich kennenlernen möchtest, findest du auf <a href="fb.me/AtheneAachen">Facebook</a> auch immer den Termin des nächsten Mitgliedertreffens!
 
 ### Tätigkeit als Mentor_in
-Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest den Unterricht und betreust bei Bedarf einzelne Kinder gezielt.
+Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest den Unterricht und betreust bei Bedarf einzelne Kinder gezielt. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein. Etwas Zeit und Motivation ist alles, was du brauchst.
 
 ### Arbeitsgruppen
 **Gruppe Wissensportal**<br>
-Unter der Kategorie <a href="https://www.athene-aachen.de/Wissen/">Wissen</a> bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen. <br>
-**Gruppe Medienkompetenz und Netzsicherheit**<br>
+Unter der Kategorie <a href="https://www.athene-aachen.de/Wissen/">Wissen</a> bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
+
+**Gruppe Medienkompetenz und Netzsicherheit**
 Wir entwickeln Workshops zu Themen wie Medienkompetenz oder Sicherheit im Internet. Ziel ist es, die Workshops im Rahmen von Projekttagen an Aachener Schulen anzubieten.
 
 ### Organisation
