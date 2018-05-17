@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wissen'
+title: 'Wissenswertes'
 ---
 
 Wir haben ab heute eine neue Rubrik auf der Homepage, in der wir Wissenswertes zu Athene-nahen Themen sammeln.
