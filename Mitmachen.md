@@ -20,7 +20,7 @@ Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du b
 
 ### Arbeitsgruppen
 **Gruppe Wissensportal**<br>
-Unter der Kategorie <a href="https://www.athene-aachen.de/Wissen/">Wissen</a> bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
+Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
 
 **Gruppe Medienkompetenz und Netzsicherheit**<br>
 Wir entwickeln Workshops zu Themen wie Medienkompetenz oder Sicherheit im Internet. Ziel ist es, die Workshops im Rahmen von Projekttagen an Aachener Schulen anzubieten.
