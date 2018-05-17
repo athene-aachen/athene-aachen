@@ -9,11 +9,11 @@ Wir sind immer auf der Suche nach Studierenden, die Lust haben, uns zu unterstü
 
 Zum Dank stellen wir dir ein Zertifikat über deine Tätigkeit aus.
 
-Außerdem kannst du dir dein Engagement auch als Teil des <a href="http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/">Zertifikat Internationales</a> der RWTH Aachen anrechnen lassen.
+Außerdem kannst du dir dein Engagement auch als Teil des [Zertifikat Internationales](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/) der RWTH Aachen anrechnen lassen.
 
 Und falls du Lehrämtler/in bist, lohnt sich für die Mitarbeit bei Athene noch mehr: Seit dem Wintersemester 2012/13 kannst du dir Tätigkeiten bei Athene als außerschulisches Praktikum anrechnen lassen. Für das Staatsexamen müssen 80, für den Bachelor 120 Stunden ehrenamtliche Arbeit abgeleistet werden, die von Seiten des Projekts bescheinigt werden. Die Stunden beziehen sich dabei auf alle vom Projekt angebotenen Tätigkeitsbereiche - schulische Nachhilfe, Beratungstätigkeiten sowie die Durchführung von Veranstaltungen und die Teilnahme an den Sitzungen.
 
-Schreib uns einfach eine kurze E-Mail an <a href="mailto:info@athene-aachen.de">info@athene-aachen.de</a> oder schick uns eine <a href="m.me/AtheneAachen">Nachricht auf Facebook</a>. Und falls du uns persönlich kennenlernen möchtest, findest du auf <a href="https://fb.me/{{ site.footer-links.facebook }}">Facebook</a> auch immer den Termin des nächsten Mitgliedertreffens!
+Schreib uns einfach eine kurze E-Mail an <a href="mailto:info@athene-aachen.de">info@athene-aachen.de</a> oder schick uns eine [Nachricht auf Facebook](https://m.me/AtheneAachen). Und falls du uns persönlich kennenlernen möchtest, findest du auf [Facebook](https://fb.me/{{ site.footer-links.facebook }}) auch immer den Termin des nächsten Mitgliedertreffens!
 
 ### Tätigkeit als Mentor_in
 Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest den Unterricht und betreust bei Bedarf einzelne Kinder gezielt. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein. Etwas Zeit und Motivation ist alles, was du brauchst.
