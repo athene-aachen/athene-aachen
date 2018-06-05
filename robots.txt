@@ -1,0 +1,8 @@
+---
+---
+
+# Allow crawling of all content, except impressum
+User-agent: *
+Disallow: /Impressum
+Disallow: /Impressum/
+Sitemap: https://www.athene-aachen.de/sitemap.xml
