@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Die Gesamtschule als Erfolgsmodell? Das Schulsystem in Finnland'
+permalink: /Wissen/Schulsystem-Finnland/
 author: Renan
 ---
 Alternativ zu dem vorgestellten Schulsystem Deutschlands folgen die meisten Industriestaaten dem Modell der Gesamtschule.
