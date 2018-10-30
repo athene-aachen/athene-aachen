@@ -7,9 +7,12 @@ Hier sammeln wir Wissenswertes zu Athene-nahen Themen. Wir haben aktuell Artikel
 <div class="posts">
   {% for page in site.pages %}
     {% if page.tags contains= 'Wissen' %}
+      <article class="post">
         <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
         {{ page.excerpt }}
+        <a href="{{ page.url }}" class="read-more">Weiterlesen</a>
+      </article>
     {% endif %}
-  {{ page.tags }}
+    
   {% endfor %}
 </div>
