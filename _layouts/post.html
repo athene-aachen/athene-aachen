@@ -4,6 +4,11 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {% if page.author %}
+    <span>
+      Von {{ page.author }}
+    </span>
+  {% endif %}
   <div class="entry">
     <div class="date">
       <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
