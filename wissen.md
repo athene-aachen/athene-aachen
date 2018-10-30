@@ -4,20 +4,7 @@ title: 'Wissen'
 permalink: /Wissen/
 ---
 <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="entry">
-        <div class="date">
-        <time datetime="{{ post.date | %Y-%m-%d %H:%M+01:00 }}">
-          {{ post.date | date: "%d. %B %Y" | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"October","Oktober" | replace:"December","Dezember" }}
-        </time>
-        </div>
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ post.url }}" class="read-more">Weiterlesen</a>
-    </article>
+  {% for post in site.pages %}
+      <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
   {% endfor %}
 </div>
