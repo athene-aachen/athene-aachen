@@ -5,7 +5,7 @@ layout: default
 Hier sammeln wir Wissenswertes zu Athene-nahen Themen. Wir haben aktuell Artikel zu folgenden Themen:2
 
 <div class="posts">
-  {% for page in site.tags.Wissen %}
+  {% for page in site.pages %}
       <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
       {{ page.excerpt }}
   {% endfor %}
