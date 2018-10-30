@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Hier sammeln wir Wissenswertes zu Athene-nahen Themen. Wir haben aktuell Artikel zu folgenden Themen:6
+Hier sammeln wir Wissenswertes zu Athene-nahen Themen. Wir haben aktuell Artikel zu folgenden Themen:7
 
-{{ site.tags.Wissen }}
 <div class="posts">
   {% for page in site.pages %}
+  {% if page.tags != "" %}
       <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
       {{ page.excerpt }}
-  {{ page.tags }}
+  {% endif %}
   {% endfor %}
 </div>
