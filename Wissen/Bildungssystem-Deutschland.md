@@ -3,6 +3,7 @@ layout: page
 title: 'Bildungssystem  in  Deutschland:  Die  Guten  ins  Töpfchen,  die  Schlechten  ins  Kröpfchen?'
 permalink: /Wissen/Bildungssystem-Deutschland/
 author: Renan
+tags: Wissen
 ---
 In Deutschland erlangen Kinder aus bildungs- und einkommensstarken Elternhäusern
 mit größerer Wahrscheinlichkeit höhere Bildungszertifikate als Kinder aus
