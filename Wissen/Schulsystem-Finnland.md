@@ -5,13 +5,11 @@ permalink: /Wissen/Schulsystem-Finnland/
 author: Renan
 tags: Wissen
 excerpt:
-  Alternativ zu dem vorgestellten Schulsystem Deutschlands folgen die meisten Industriestaaten dem Modell der Gesamtschule.
-  Im Vergleich zu Deutschland verbringen die SchülerInnen nicht nur die vierjährige Grundschulzeit zusammen, sondern auch die   Sekundarstufe I.
-  Finnland gilt durch die sehr guten Leistungen in Vergleichsstudien, als Vorreiter in Bezug auf Bildung und dient deshalb als interessantes Beispiel für ein alternatives Schulsystem.
+  Finnland gilt durch die sehr guten Leistungen in Vergleichsstudien als Vorreiter in Bezug auf Bildung und dient deshalb als interessantes Beispiel für ein alternatives Schulsystem. Dieses System stellt Renan in diesem Artikel vor.
 ---
 Alternativ zu dem vorgestellten Schulsystem Deutschlands folgen die meisten Industriestaaten dem Modell der Gesamtschule.
 Im Vergleich zu Deutschland verbringen die SchülerInnen nicht nur die vierjährige Grundschulzeit zusammen, sondern auch die Sekundarstufe I.
-Finnland gilt durch die sehr guten Leistungen in Vergleichsstudien, als Vorreiter in Bezug auf Bildung und dient deshalb als interessantes Beispiel für ein alternatives Schulsystem.
+Finnland gilt durch die sehr guten Leistungen in Vergleichsstudien als Vorreiter in Bezug auf Bildung und dient deshalb als interessantes Beispiel für ein alternatives Schulsystem.
 Finnlands Erfolg resultiert zum einen aus den von den SchülerInnen erreichten Schulleistungen, zum anderen aus der „gerechten“ Verteilung der erreichten Bildungsabschlüsse.
 
 Mit der finnischen Schulreform 1972-1977 wurde das Konzept der Gesamtschule etabliert.
