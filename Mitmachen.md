@@ -11,7 +11,7 @@ Zum Dank stellen wir dir ein Zertifikat über deine Tätigkeit aus.
 
 Außerdem kannst du dir dein Engagement auch als Teil des [Zertifikat Internationales](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/) der RWTH Aachen anrechnen lassen.
 
-Und falls du Lehrämtler/in bist, lohnt sich für die Mitarbeit bei Athene noch mehr: Seit dem Wintersemester 2012/13 kannst du dir Tätigkeiten bei Athene als außerschulisches Praktikum anrechnen lassen. Für das Staatsexamen müssen 80, für den Bachelor 120 Stunden ehrenamtliche Arbeit abgeleistet werden, die von Seiten des Projekts bescheinigt werden. Die Stunden beziehen sich dabei auf alle vom Projekt angebotenen Tätigkeitsbereiche - schulische Nachhilfe, Beratungstätigkeiten sowie die Durchführung von Veranstaltungen und die Teilnahme an den Sitzungen.
+Und falls du Lehramt an der RWTH Aachen studierst, lohnt sich für die Mitarbeit bei Athene noch mehr: Du kannst dir deine Tätigkeit nämlich als Berufsfeldpraktikum anrechnen lassen. Für den Bachelor müssen 120 Stunden ehrenamtliche Arbeit abgeleistet werden, die von Seiten des Projekts bescheinigt werden. Die Stunden beziehen sich dabei auf alle vom Projekt angebotenen Tätigkeitsbereiche - schulische Nachhilfe, Beratungstätigkeiten sowie die Durchführung von Veranstaltungen und die Teilnahme an den Sitzungen.
 
 Schreib uns einfach eine kurze E-Mail an <a href="mailto:mitmachen@athene-aachen.de">mitmachen@athene-aachen.de</a> oder schick uns eine [Nachricht auf Facebook](https://m.me/AtheneAachen). Und falls du uns persönlich kennenlernen möchtest, findest du auf [Facebook]({{ site.footer-links.facebook }}) auch immer den Termin des nächsten Mitgliedertreffens!
 
