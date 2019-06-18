@@ -14,8 +14,7 @@ Schreib uns einfach eine kurze E-Mail an <a href="mailto:mitmachen@athene-aachen
 ### Tätigkeit als Mentor_in
 Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest den Unterricht und betreust bei Bedarf einzelne Kinder gezielt. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein. Etwas Zeit und Motivation ist alles, was du brauchst.
 
-### Arbeitsgruppen
-**Gruppe Wissensportal**<br>
+### Arbeit am Wissensportal
 Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
 
 ### Organisation
