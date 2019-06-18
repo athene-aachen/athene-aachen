@@ -17,7 +17,7 @@ Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du b
 ### Arbeit am Wissensportal
 Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
 
-### Organisation
+### Unterstützung der Vereinsorganisation
 Von Koordination mit den Schulen über Öffentlichkeitsarbeit bis hin zu Verwaltungsaufgaben im Verein - dein Einsatz ist gefragt!
 
 ### Zertifikat Internationales
