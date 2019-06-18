@@ -22,8 +22,5 @@ Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du b
 **Gruppe Wissensportal**<br>
 Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
 
-**Gruppe Medienkompetenz und Netzsicherheit**<br>
-Wir entwickeln Workshops zu Themen wie Medienkompetenz oder Sicherheit im Internet. Ziel ist es, die Workshops im Rahmen von Projekttagen an Aachener Schulen anzubieten.
-
 ### Organisation
 Von Koordination mit den Schulen über Öffentlichkeitsarbeit bis hin zu Verwaltungsaufgaben im Verein - dein Einsatz ist gefragt!
