@@ -5,7 +5,7 @@ permalink: /Mitmachen/
 ---
 
 Du willst bei Athene mitmachen? Super!
-Wir sind immer auf der Suche nach Studierenden, die Lust haben, uns zu unterstützen, sei es als  [Mentor_in](#tätigkeit-als-mentor_in), in unseren [Arbeitsgruppen](#arbeitsgruppen) oder im [organisatorischen Bereich](#organisation)!
+Wir sind immer auf der Suche nach Studierenden, die Lust haben, uns zu unterstützen, sei es als [Mentor_in](#tätigkeit-als-mentor_in) oder im [organisatorischen Bereich](#unterstützung-der-vereinsorganisation)!
 
 Und falls du Lehramt an der RWTH Aachen studierst, lohnt sich für dich die Mitarbeit bei Athene noch mehr: Du kannst dir deine Tätigkeit nämlich als Berufsfeldpraktikum anrechnen lassen. Für den Bachelor müssen 120 Stunden ehrenamtliche Arbeit abgeleistet werden, die von Seiten des Projekts bescheinigt werden. Die Stunden beziehen sich dabei auf alle vom Projekt angebotenen Tätigkeitsbereiche - schulische Nachhilfe, Beratungstätigkeiten sowie die Durchführung von Veranstaltungen und die Teilnahme an den Sitzungen.
 
