@@ -15,11 +15,9 @@ Schreib uns einfach eine kurze E-Mail an <a href="mailto:mitmachen@athene-aachen
 Als Mentor_in unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest vormittags den Unterricht und betreust bei Bedarf einzelne Kinder gezielt oder hilfst nachmittags bei der Hausaufgabenbetreuung. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein.
 Etwas Zeit und Motivation ist alles, was du brauchst.
 
-### Arbeit am Wissensportal
-Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
-
 ### Unterstützung der Vereinsorganisation
 Von Koordination mit den Schulen über Öffentlichkeitsarbeit bis hin zu Verwaltungsaufgaben im Verein - dein Einsatz ist gefragt!
+Außerdem bauen wir hier auf der Website unter der Kategorie [Wissen]({{ '/Wissen/' }}) eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen. Auch hier freuen wir uns über deine Unterstützung.
 
 ### Zertifikat Internationales
 Zum Dank stellen wir dir auf Wunsch ein [Zertifikat über deine Tätigkeit](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/) aus, das auch von der RWTH Aachen anerkannt wird.
