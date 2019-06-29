@@ -12,7 +12,8 @@ Und falls du Lehramt an der RWTH Aachen studierst, lohnt sich für dich die Mita
 Schreib uns einfach eine kurze E-Mail an <a href="mailto:mitmachen@athene-aachen.de">mitmachen@athene-aachen.de</a> oder schick uns eine [Nachricht auf Facebook](https://m.me/AtheneAachen). Und falls du uns persönlich kennenlernen möchtest, findest du auf [Facebook]({{ site.footer-links.facebook }}) auch immer den Termin des nächsten Mitgliedertreffens!
 
 ### Tätigkeit als Mentor_in
-Als Mentor_innen unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest den Unterricht und betreust bei Bedarf einzelne Kinder gezielt. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein. Etwas Zeit und Motivation ist alles, was du brauchst.
+Als Mentor_in unterstützt du Lehrkräfte in Grund- und Sekundarschulen. Du begleitest vormittags den Unterricht und betreust bei Bedarf einzelne Kinder gezielt oder hilfst nachmittags bei der Hausaufgabenbetreuung. Dafür musst du kein Mathe-Genie oder Sprachen-Ass sein.
+Etwas Zeit und Motivation ist alles, was du brauchst.
 
 ### Arbeit am Wissensportal
 Unter der Kategorie [Wissen]({{ '/Wissen/' }}) bauen wir hier auf der Website eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen.
