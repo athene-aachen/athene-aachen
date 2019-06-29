@@ -20,4 +20,4 @@ Von Koordination mit den Schulen über Öffentlichkeitsarbeit bis hin zu Verwalt
 Außerdem bauen wir hier auf der Website unter der Kategorie [Wissen]({{ '/Wissen/' }}) eine Wissensplattform zum Thema Bildung ein, wo wir interessante, aber auch nützliche Informationen zum Thema Bildung aufbereiten und zusammenstellen. Auch hier freuen wir uns über deine Unterstützung.
 
 ### Zertifikat Internationales
-Zum Dank stellen wir dir auf Wunsch ein [Zertifikat über deine Tätigkeit](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/) aus, das auch von der RWTH Aachen anerkannt wird.
+Außerdem kannst du dir dein Engagement auch als Teil des [Zertifikat Internationales](https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Engagement-Freizeit/Engagement-International/~bqxh/Zertifikat-Internationales/) der RWTH Aachen anrechnen lassen.
