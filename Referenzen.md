@@ -5,7 +5,26 @@ permalink: /Referenzen/
 ---
 
 ## Grundschule Feldstraße
-Seit mehreren Jahren unterstützen wir nun schon die <a href="http://kgs-feldstrasse.com/">Grundschule Feldstraße</a> im Aachener Nordosten. Athene-Mentor_innen fördern Kinder in Eins-zu-Eins Betreuung oder helfen bei der täglichen Arbeit in den Klassen. Wir koordinieren unser Engagement in enger Zusammenarbeit mit der dortigen Schulsozialarbeiterin.  
+Seit mehreren Jahren unterstützen wir nun schon die <a href="http://kgs-feldstrasse.de/">Grundschule Feldstraße</a> im Aachener Nordosten. Athene-Mentor_innen fördern Kinder in Eins-zu-Eins Betreuung oder helfen bei der täglichen Arbeit in den Klassen. Wir koordinieren unser Engagement in enger Zusammenarbeit mit der dortigen Schulsozialarbeiterin.  
+
+## Grundschule am Fischmarkt
+Seit Anfang 2019 sind wir auch im Zentrum Aachens am Fischmarkt aktiv.
+In der Offenen Ganztagsschule (OGS) helfen wir einzelnen Schüler_innen bei den Hausaufgaben oder spielen auch mal eine Runde Mau-Mau. Wir sind immer auf der Suche nach Verstärkung für unser Team an der <a href="https://www.schule-fischmarkt.de/">Grundschule am Fischmarkt</a>.
+Ihr könnt auch als Gruppe von zwei bis drei Leuten aktiv werden.
+
+## Hauptschule Aretzstraße
+An der <a href="https://www.ghs-aretzstrasse.de/">Hauptschule Aretzstraße</a> steht die gezielte Unterstützung einzelner Schüler_innen bei der Vorbereitung auf ihren Abschluss im Vordergrund.
+Viele Schüler_innen haben dabei einen Fluchthintergrund und sind sehr dankbar für unsere individuelle Unterstützung vor Ort. 
+
+Für diese Schule suchen wir besonders Lehramtsstudenten_innen, die gerne Praxisluft schnuppern möchten.
+In Zusammenarbeit mit den Lehrern können auch einzelne Stunden vorbereitet und übernommen werden.
+Klingt interessant?
+Dann melde Dich bei uns und unterstütze die Hauptschule Aretzstraße!
+
+## Regenbogengrundschule Herzogenrath
+Auch in Herzogenrath sind wir aktiv.
+An der <a href="https://regenbogengrundschule.myqnapcloud.com/">Regenbogengrundschule</a> unterrichtet mittlerweile ein langjähriges Athene-Mitglied und freut sich über Eure Unterstützung in der OGS.
+Sucht Ihr nach Möglichkeiten eine Lücke in Eurem Stundenplan zu füllen, dann unterstützt doch die Hausaufgabenbetreuung in der Regenbogengrundschule.
 
 ## Mentoren-Netzwerk Aachen 
 Athene ist Teil des <a href="http://www.aachen.de/DE/stadt_buerger/gesellschaft_soziales/ehrenamt/mentorenprojekte/Flyer_NEU_Mai_2017_Druckversion.pdf">Mentoren-Netzwerk Aachen</a> der Stadt Aachen. Das Netzwerk umfasst die meisten Aachener Bildungsprojekte, von "Arbeiterkind.de – Aachen" über "ROCK YOUR LIFE! Aachen e.V." bis zum "UNESCO-Club Aachen e. V.". Die Plattform versucht die Mentorenprojekten durch Informationsdienste und Fortbildungsprogramme zu unterstützen. 
