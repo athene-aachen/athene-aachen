@@ -4,7 +4,7 @@ title: Impressum
 permalink: /Impressum/
 ---
 
-Athene - Bildungschancen für Aachen  
+Athene - Bildungschancen für Aachen e.V.
 Maik Glatki  
 Thomashofstraße 11  
 52070 Aachen  
