@@ -10,15 +10,7 @@ permalink: /Kalender/
 Variante A
 
 <div class="fb-page" 
-  data-tabs="timeline,events,messages"
-  data-href="https://www.facebook.com/AtheneAachen"
-  data-width="380" 
-  data-hide-cover="false"></div>
-
-Variante B
-
-<div class="fb-page" 
   data-tabs="events"
   data-href="https://www.facebook.com/AtheneAachen"
   data-width="380" 
-  data-hide-cover="false"></div>
+  data-hide-cover="true"></div>
