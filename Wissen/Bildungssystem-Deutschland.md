@@ -5,7 +5,7 @@ permalink: /Wissen/Bildungssystem-Deutschland/
 author: Renan
 tags: Wissen
 excerpt: 
-  In Deutschland erlangen Kinder aus bildungs- und einkommensstarken Elternhäuser mit größerer Wahrscheinlichkeit höhere Bildungszertifikate als Kinder aus benachteiligten Familien. Die Auswirkung des Elternhauses auf den Bildungsverlauf von Kindern und die damit verbundene Weitergabe des ökonomischen Status ist dadurch zentraler Bestandpunkt aktueller Bildungsdebatten.
+  In Deutschland erlangen Kinder aus bildungs- und einkommensstarken Elternhäusern mit größerer Wahrscheinlichkeit höhere Bildungszertifikate als Kinder aus benachteiligten Familien. Die Auswirkung des Elternhauses auf den Bildungsverlauf von Kindern und die damit verbundene Weitergabe des ökonomischen Status ist dadurch zentraler Bestandpunkt aktueller Bildungsdebatten.
 ---
 In Deutschland erlangen Kinder aus bildungs- und einkommensstarken Elternhäuser mit größerer Wahrscheinlichkeit höhere Bildungszertifikate als Kinder aus benachteiligten Familien. Die Auswirkung des Elternhauses auf den Bildungsverlauf von Kindern und die damit verbundene Weitergabe des ökonomischen Status ist dadurch zentraler Bestandpunkt aktueller Bildungsdebatten.
 Insbesondere wurden die Uneinigkeiten in Bezug auf unterschiedliche
