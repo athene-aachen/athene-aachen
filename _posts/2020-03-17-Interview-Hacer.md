@@ -14,6 +14,6 @@ Ich hatte ein sehr nettes und lockeres Gespräch mit Daniel, der mir erstmal all
 Ich helfe an der Regenbogenschule in Herzogenrath als Mentorin aus und betreue am Nachmittag die Schüler\*innen bei den Hausaufgaben. Vor den Hausaufgaben haben wir Mentor\*innen meistens noch Einzelbetreuung mit lernschwachen Kindern. In den 30 Minuten arbeiten wir mit Materialien, die uns die Klassenlehrerin zur verfügung stellt. Ich versuche den Schüler\*innen Denkanstöße zu geben, wenn sie mit den Aufgaben nicht weiterkommen, erkläre ihnen das Thema, falls sie das noch nicht so gut verstanden haben und kontrolliere die Ergebnisse am Ende.
 
 
-Wie wird Dein Engagement bei Schüler\*innen und den Lehrer\*innen angenommen?
+**Wie wird Dein Engagement bei Schüler\*innen und den Lehrer\*innen angenommen?**
 
 Meine Tätigkeit und mein Engagement wird sehr positiv aufgenommen. Die Kinder begrüßen uns schon herzlich auf dem Schulhof und freuen sich, wenn wir immer da sind oder sind auch mal traurig, wenn ein\*e Mentor\*in ausfällt. Allgemein macht es mir sehr viel Spaß, da das direkte Feedback der Schüler\*innen und der gemeinsam erzielte Lernerfolg sehr motivierend sind.
