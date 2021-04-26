@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spenden
-permalink: /Spenden/
+permalink: /spenden/
 ---
 
 Sehr gerne könnt ihr unsere Arbeit finanziell unterstützen!
