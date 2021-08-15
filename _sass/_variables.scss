@@ -11,10 +11,18 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+// import custom font
+// Geo Sans Light Font Download is available free from FontGet. Geo Sans Light is a Free Font for commercial use created by Manfred Klein
+@font-face {
+    font-family: 'Geo Sans Light';
+    src: url(resources/GeosansLight.ttf) format('truetype');
+}
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$geosanslight: "Geo Sans Light", sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
